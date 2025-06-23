@@ -18,8 +18,9 @@ function Experience() {
                 <div className='hidden sm:block px-4'>
                     <p className='font-semibold text-xl'>Programmer Analyst Tainee <span className='float-right text-lg text-gray-500 pr-1.5'>Hyderabad, India.</span></p>
                     <p className='font-semibold text-md text-gray-500 pt-1'>Cognizant Technology Solutions <span className='float-right pr-1.5'>March 2022 - May 2023</span></p>
-                    <p className='text-md pt-4 '>- Developed Microservice with RESTful APIs using Spring Boot and Hibernate frameworks. <br />
-                    - Experienced in writing unit tests for code coverage using JUnit and Mockito.</p>
+                    <p className='text-md pt-4 '>- Developed 5+ responsive UI components using React.js, adhering to component-based architecture and state management.  <br/>
+- Built 3+ mini-projects using React.js and Tailwind CSS, improving responsiveness and user engagement. 
+</p>
                 </div>
             </div>
         </div>
